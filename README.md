@@ -2,7 +2,7 @@
 # Hey There! 👾
 
 ### I'm Júlio Ricardo - I'm a front-end developer and university student from Brazil.
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/júlio-ricardo-milcharek-cavalheiro-04b67823a)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/júlio-ricardo-milcharek-cavalheiro)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/julioricardoz)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JRCavalheiro1&show_icons=true&title_color=5098e9&text_color=a4acb3&bg_color=0d1117&border_color=292e35)
