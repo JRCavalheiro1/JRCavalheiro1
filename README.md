@@ -9,9 +9,9 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JRCavalheiro1&layout=compact&bg_color=0d1117&title_color=5098e9&text_color=ffffff&border_color=292e35)
 
 <br/>
-<br/>
 <p >
   <a href="https://skillicons.dev">
     <img width="250" alt="javscript" src="https://skillicons.dev/icons?i=js,ts,react,git"/>
   </a>
 </p>
+<a href="https://app.daily.dev/jlioricardo"><img src="https://api.daily.dev/devcards/v2/XKKhTjriYa2BtZehGFQEz.png?r=1ee&type=default" width="356" alt="Júlio Ricardo's Dev Card"/></a>
