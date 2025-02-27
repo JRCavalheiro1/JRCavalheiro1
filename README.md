@@ -16,4 +16,4 @@
     <img width="250" alt="javscript" src="https://skillicons.dev/icons?i=js,ts,react,git"/>
   </a>
 </p>
-<a href="https://app.daily.dev/jlioricardo"><img src="https://api.daily.dev/devcards/v2/XKKhTjriYa2BtZehGFQEz.png?r=1ee&type=default" width="356" alt="Júlio Ricardo's Dev Card"/></a>
+<a href="https://app.daily.dev/jlioricardo"><img src="https://api.daily.dev/devcards/v2/XKKhTjriYa2BtZehGFQEz.png?r=1ee&type=wide" width="652" alt="Júlio Ricardo's Dev Card"/></a>
